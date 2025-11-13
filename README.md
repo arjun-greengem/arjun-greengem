@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNldzZuMWVxeWl0eXlxc3l3b2E5dnF1cGN6M29qdm43eHBuM3M4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFo3BEQFmK4cU/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsMzV6amNvMnZkZm1yc3M5ajFxODJ6Z2U4M3hzOTVvbmF1Z28xciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6YNgoTEPs6vZe/giphy.gif" width="500">
 </p> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hii%21;oxsh0gunX+-+don%27t+pray.+chmod+%2Bx+my+destiny.%21;sudo+rm+-rf+reality%2F%2A%21;Hope+you+enjoy%21&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Welcome to my GitHub">
 <h1 align="center">🛡️<b> oxsh0gunX </b></h1>
