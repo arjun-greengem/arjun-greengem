@@ -4,7 +4,7 @@
 </p> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hii%21;arjun-greengem-+don%27t+pray.+chmod+%2Bx+my+destiny.%21;sudo+rm+-rf+reality%2F%2A%21;Hope+you+enjoy%21&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Welcome to my GitHub">
 <h1 align="center">❄️<b>greengem  </b></h1>
-<h3 align="center">Cybersecurity </h3>
+<!-- <h3 align="center">Cybersecurity </h3> -->
 
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-<h2>⚙️ My Arsenal</h2>
+<!-- <h2>⚙️ My Arsenal</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
@@ -42,7 +42,7 @@
   <img src="https://www.flaticon.com/free-icon/terminal_10478244?term=terminal&page=1&position=2&origin=tag&related_id=10478244" width="40"/>
 
   
-</p>
+</p> -->
 
 ---
 
