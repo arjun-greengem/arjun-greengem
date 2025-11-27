@@ -60,12 +60,12 @@
 ---
 
 <!-- TryHackMe Section -->
-<h2>🎯 TryHackMe Progress</h2>
+<!-- <h2>🎯 TryHackMe Progress</h2>
 <p align="center">
   <a href="https://tryhackme.com/p/arjun-greengem">
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fih1.redbubble.net%2Fimage.3686010618.6880%2Fflat%2C750x%2C075%2Cf-pad%2C750x1000%2Cf8f8f8.u2.jpg&tbnid=uXpM4m8-kxoIvM&vet=10CBAQxiAoB2oXChMI-OyS8cGSkQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2FBihyung-The-Dokkaebi-by-bullynggitt%2F112986880.LVTDI&docid=lXt9yduOBME2_M&w=750&h=1000&q=dokkaebi%20orv%20picture&client=firefox-b-d&ved=0CBAQxiAoB2oXChMI-OyS8cGSkQMVAAAAAB0AAAAAEAc" alt="TryHackMe Badge" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -87,9 +87,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <i>“Defense is the art of understanding the attack.”</i><br>
   <b>Stay Anonymous. Stay Secure.</b> 🕶️
-</p>
+</p> -->
 
 
